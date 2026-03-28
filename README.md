@@ -22,6 +22,12 @@ Open `index.html` in your browser.
 ##  Files
 
 index.html
+
+
+
 style.css
+
+
+
 bg.png
 
