@@ -19,15 +19,4 @@ A modern login page built using HTML & CSS with a clean glassmorphism design and
 
 Open `index.html` in your browser.
 
-##  Files
-
-index.html
-
-
-
-style.css
-
-
-
-bg.png
 
